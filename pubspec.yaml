@@ -4,6 +4,9 @@ dependencies:
   barback: any
   markdown: any
   malison: any
-  piecemeal: any
+  piecemeal: 0.1.1
+dev_dependencies:
+  runtime:
+    path: ../../../web_runtime
 transformers:
 - hauberk/src/markdown_to_html
